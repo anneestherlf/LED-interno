@@ -40,7 +40,7 @@ Ou acesse pelo link: <https://drive.google.com/file/d/16ZO6bV0SfD_J0PVHTeuvQTlEu
 
 <div align="center">
   
-[<img src='readme-assets\code-arduino.png' width='800px'>](https://drive.google.com/file/d/16ZO6bV0SfD_J0PVHTeuvQTlEu_tj83HZ/view?usp=sharing)
+<img src='readme-assets\code-arduino.png' width='800px'>
 
 
 </div>
