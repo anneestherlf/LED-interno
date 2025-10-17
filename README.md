@@ -32,6 +32,8 @@ Utilizei a **software** Arduino IDE para executar o arquivo `blink-led.ino` (enc
   
 [<img src='/readme-assets/blink.JPEG' width='800px'>](https://drive.google.com/file/d/16ZO6bV0SfD_J0PVHTeuvQTlEu_tj83HZ/view?usp=sharing)
 
+Ou acesse pelo link: <https://drive.google.com/file/d/16ZO6bV0SfD_J0PVHTeuvQTlEu_tj83HZ/view?usp=sharing>
+
 </div>
 
 ## Parte 2 
