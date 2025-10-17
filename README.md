@@ -51,9 +51,9 @@ Ou acesse pelo link: <https://drive.google.com/file/d/16ZO6bV0SfD_J0PVHTeuvQTlEu
 
 Ao clicar no play do TinkerCad, o projeto deve executar sem erros uma rotina que simula um pisca-pisca de qualquer cadência. 
 
-Nesse projeto, utilizei um protoboard, ligações elétricas, LED (OFF_BOARD), resistor e um Arduino. Tudo pelo software Tinkercad.
+Nesse projeto, utilizei um protoboard, ligações elétricas, LED (OFF_BOARD), resistor e um Arduino. Tudo pelo software TinkerCad.
 
-## ⌨️ Código do Tinkercad: 
+## ⌨️ Código do TinkerCad: 
 
 
 <div align="center">
