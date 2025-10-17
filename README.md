@@ -1,5 +1,6 @@
-<img src='readme-assets\arduino-1.svg' align="center"
-width='150px'>
+<div align="center">
+<img src='readme-assets\arduino-1.svg' width='100px'>
+</div>
 
 # Projeto Blink LED-interno
 Ponderada do Módulo 4 do Inteli - LED interno (Tinkercad + Arduino IDE + GitHub)
@@ -25,11 +26,11 @@ Utilizei a **software** Arduino IDE para executar o arquivo `blink-led.ino` (enc
 
 **Linguagem utilizada:** linguagem do Arduino, que é baseada em C/C++ (C com pequenas modificações e funcionalidades de C++), mas com uma interface mais simplificada para iniciantes.
 
-**📹 Vídeo de funcionamento (clique na imagem abaixo):**
+## 📹 Vídeo de funcionamento (clique na imagem abaixo):
 
 <div align="center">
-
-[![Watch the video](/assets/blink.JPEG)](https://drive.google.com/file/d/16ZO6bV0SfD_J0PVHTeuvQTlEu_tj83HZ/view?usp=sharing)
+  
+[<img src='/readme-assets/blink.JPEG' width='800px'>](https://drive.google.com/file/d/16ZO6bV0SfD_J0PVHTeuvQTlEu_tj83HZ/view?usp=sharing)
 
 </div>
 
