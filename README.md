@@ -47,3 +47,41 @@ Ou acesse pelo link: <https://drive.google.com/file/d/16ZO6bV0SfD_J0PVHTeuvQTlEu
 
 ## Parte 2 
 
+**Objetivo:** fazer uma simulação no TinkerCad com uma montagem do pisca-pisca com Arduino Uno. 
+
+Ao clicar no play do TinkerCad, o projeto deve executar sem erros uma rotina que simula um pisca-pisca de qualquer cadência. 
+
+Nesse projeto, utilizei um protoboard, ligações elétricas, LED (OFF_BOARD), resistor e um Arduino. Tudo pelo software Tinkercad.
+
+## ⌨️ Código do Tinkercad: 
+
+
+<div align="center">
+<img src='readme-assets\tinkercad-pisca-led.png' width='800px'>
+
+Arquivo `blink-led-tinkercad.ino` (pode ser acessado na raiz do repositório)
+</div>
+
+## 🔗 Link do projeto: 
+
+Acesse aqui: <https://www.tinkercad.com/things/10H73zg4ziV-pisca-led?sharecode=GXyj-OgEUYt-4O4fFJXs66BDj5sLrWpUrWi_mVnht28>
+
+**Vista do circuito:**
+  
+[<img src='readme-assets\Smashing Turing-Lappi.png' width='800px'>](https://www.tinkercad.com/things/10H73zg4ziV-pisca-led?sharecode=GXyj-OgEUYt-4O4fFJXs66BDj5sLrWpUrWi_mVnht28)
+
+</div>
+
+**Vista esquemática:**
+
+[<img src='readme-assets\arduino.png' width='800px'>](https://www.tinkercad.com/things/10H73zg4ziV-pisca-led?sharecode=GXyj-OgEUYt-4O4fFJXs66BDj5sLrWpUrWi_mVnht28)
+
+</div>
+
+**Lista de componentes:**
+
+[<img src='readme-assets\componentes.png' width='800px'>](https://www.tinkercad.com/things/10H73zg4ziV-pisca-led?sharecode=GXyj-OgEUYt-4O4fFJXs66BDj5sLrWpUrWi_mVnht28)
+
+
+
+
